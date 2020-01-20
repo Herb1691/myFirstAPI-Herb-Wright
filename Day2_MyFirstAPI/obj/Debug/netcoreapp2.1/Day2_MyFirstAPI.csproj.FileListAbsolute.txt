@@ -1,0 +1,16 @@
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\Day2_MyFirstAPI.deps.json
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\Day2_MyFirstAPI.runtimeconfig.json
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\Day2_MyFirstAPI.runtimeconfig.dev.json
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\Day2_MyFirstAPI.dll
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\bin\Debug\netcoreapp2.1\Day2_MyFirstAPI.pdb
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.csprojAssemblyReference.cache
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.RazorAssemblyInfo.cache
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.RazorAssemblyInfo.cs
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.AssemblyInfoInputs.cache
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.AssemblyInfo.cs
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.RazorTargetAssemblyInfo.cache
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.dll
+C:\Users\herwrigh\source\repos\myFirstAPI-Herb-Wright\Day2_MyFirstAPI\obj\Debug\netcoreapp2.1\Day2_MyFirstAPI.pdb
